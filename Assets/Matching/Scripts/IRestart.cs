@@ -2,7 +2,11 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public interface IRestart
+namespace Enneas.MatchingGame
 {
-    void ResetGame();
+    public interface IRestart
+    {
+        void ResetGame();
+    }
+
 }
