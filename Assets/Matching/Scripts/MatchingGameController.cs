@@ -94,10 +94,7 @@ namespace Enneas.MatchingGame
         private void OnEnable()
         {
             MatchingGameSettings.OnExitGame += QuitButton;
-            if (this.gameObject.name != "pf_matching_game")
-            {
-                this.gameObject.name = "pf_matching_game";
-            }
+
         }
 
 
