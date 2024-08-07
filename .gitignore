@@ -1,0 +1,10 @@
+.collabignore
+.vs/
+.vsconfig
+Assembly-CSharp.csproj
+Export.sln
+Library/
+Logs/
+ProjectSettings/
+Temp/
+obj/
