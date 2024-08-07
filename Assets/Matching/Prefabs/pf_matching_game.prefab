@@ -268,11 +268,11 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 741574082064647719}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: 2f779c1c766d94c4790653c9c57174d9, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: 09c1c4f6f98ddd249a578d1a91d82888, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}
-  m_TargetTexture: {fileID: 8400000, guid: 0c6ed03172dbefc4c90901ab9ffcd4a6, type: 2}
+  m_TargetTexture: {fileID: 8400000, guid: e6c957cde56033749af2b3d984650bca, type: 2}
   m_TimeReference: 0
   m_TargetMaterialRenderer: {fileID: 0}
   m_TargetMaterialProperty: <noninit>
@@ -828,11 +828,11 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2424022176968045491}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: 52dd7ce52b35de842bb229cda4d7c888, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: aa717860736c9414da525409ee7964b8, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}
-  m_TargetTexture: {fileID: 8400000, guid: 0c6ed03172dbefc4c90901ab9ffcd4a6, type: 2}
+  m_TargetTexture: {fileID: 8400000, guid: e6c957cde56033749af2b3d984650bca, type: 2}
   m_TimeReference: 0
   m_TargetMaterialRenderer: {fileID: 0}
   m_TargetMaterialProperty: <noninit>
@@ -2337,7 +2337,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 357300020d9032740b9063189d3d9864, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 935604c2b8de5d94397e2e82a3b93cdc, type: 3}
   m_Type: 3
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -6406,7 +6406,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 2db54b8a0c884ee42b5d0324c5ce1bd9, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 16217a90ce0ea8544aa24eed42c9c395, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -7203,7 +7203,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Texture: {fileID: 2800000, guid: a157272778847794e88e3da4d3f47383, type: 3}
+  m_Texture: {fileID: 2800000, guid: e091010f3021b684fba22f87722af1d1, type: 3}
   m_UVRect:
     serializedVersion: 2
     x: 0
@@ -7731,7 +7731,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Texture: {fileID: 8400000, guid: 0c6ed03172dbefc4c90901ab9ffcd4a6, type: 2}
+  m_Texture: {fileID: 8400000, guid: e6c957cde56033749af2b3d984650bca, type: 2}
   m_UVRect:
     serializedVersion: 2
     x: 0

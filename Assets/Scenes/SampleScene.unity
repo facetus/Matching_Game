@@ -308,6 +308,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 375917477775866078, guid: af579528d4eefde4f9972c01abf66771, type: 3}
+      propertyPath: m_Texture
+      value: 
+      objectReference: {fileID: 2800000, guid: e091010f3021b684fba22f87722af1d1, type: 3}
+    - target: {fileID: 1527179618815565650, guid: af579528d4eefde4f9972c01abf66771, type: 3}
+      propertyPath: m_Texture
+      value: 
+      objectReference: {fileID: 2800000, guid: e091010f3021b684fba22f87722af1d1, type: 3}
     - target: {fileID: 1568510916871746134, guid: af579528d4eefde4f9972c01abf66771, type: 3}
       propertyPath: m_fontAsset
       value: 
@@ -468,6 +476,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4908384935447128312, guid: af579528d4eefde4f9972c01abf66771, type: 3}
+      propertyPath: m_Texture
+      value: 
+      objectReference: {fileID: 8400000, guid: e6c957cde56033749af2b3d984650bca, type: 2}
     - target: {fileID: 4963170440499678775, guid: af579528d4eefde4f9972c01abf66771, type: 3}
       propertyPath: m_IsActive
       value: 0
@@ -492,6 +504,10 @@ PrefabInstance:
       propertyPath: m_sharedMaterial
       value: 
       objectReference: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+    - target: {fileID: 7832783238376458296, guid: af579528d4eefde4f9972c01abf66771, type: 3}
+      propertyPath: m_Texture
+      value: 
+      objectReference: {fileID: 2800000, guid: e091010f3021b684fba22f87722af1d1, type: 3}
     - target: {fileID: 8993319139778602905, guid: af579528d4eefde4f9972c01abf66771, type: 3}
       propertyPath: poolSize
       value: 500
